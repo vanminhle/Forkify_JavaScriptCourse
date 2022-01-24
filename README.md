@@ -5,4 +5,4 @@ Recipe application with custom recipe uploads
 
 https://www.udemy.com/course/the-complete-javascript-course/
 
-// Live DEMO : https://zen-stonebraker-4c270b.netlify.app
+// Live DEMO : https://forkifyappbyleminh.netlify.app/
